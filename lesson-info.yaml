@@ -1,0 +1,6 @@
+type: framework
+content:
+  - Program interface
+  - Read and Write image files
+  - Hide a message in an image
+  - Encrypt the message
